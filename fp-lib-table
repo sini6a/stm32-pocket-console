@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stopwatchy_library")(type "KiCad")(uri "${KIPRJMOD}/KiCad/stopwatchy_library.pretty")(options "")(descr ""))
+)

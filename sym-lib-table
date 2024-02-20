@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "H8116A")(type "KiCad")(uri "${KIPRJMOD}/KiCad/H8116A.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2007SPER")(type "KiCad")(uri "${KIPRJMOD}/KiCad/AP2007SPER.kicad_sym")(options "")(descr ""))
+  (lib (name "N114-2413THBIG01-H13")(type "KiCad")(uri "${KIPRJMOD}/KiCad/N114-2413THBIG01-H13.kicad_sym")(options "")(descr ""))
+  (lib (name "HS-HS24CG003-ARX")(type "KiCad")(uri "${KIPRJMOD}/KiCad/HS-HS24CG003-ARX.kicad_sym")(options "")(descr ""))
+  (lib (name "NHD-2.4-240320CF-BSXV-F")(type "KiCad")(uri "${KIPRJMOD}/KiCad/NHD-2.4-240320CF-BSXV-F.kicad_sym")(options "")(descr ""))
+)
