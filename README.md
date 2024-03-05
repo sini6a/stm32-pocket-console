@@ -1,4 +1,4 @@
-# STM32 Pocket Game/Dev Console
+# STM32 Pocket Game/Dev Console 🕹️
 
 ![screenshot #1](images/stopwatchy-kicad.png)
 
