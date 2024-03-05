@@ -3726,7 +3726,7 @@
       (thermal_bridge_angle 45) (tstamp e8f6cc0d-6f8c-46e8-b1b0-c49afaa45012))
     (model "${KIPRJMOD}/KiCad/3d/koszyk 2xAAA_214.STEP"
       (offset (xyz 0 0 5.5))
-      (scale (xyz 1 1 1.1))
+      (scale (xyz 0.8 1 1.1))
       (rotate (xyz -90 0 90))
     )
   )
