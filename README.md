@@ -2,7 +2,7 @@
 
 ![screenshot #1](images/stopwatchy-kicad.png)
 
-The STM32 Pocket Game/Dev Console is a handheld device powered by 2xAAA batteries. This compact console features 5 programmable buttons, 2 LEDs, and an SPI TFT 2.4" display with a resolution of 320x240 pixels.
+The STM32 Pocket Game/Dev Console 🕹️ is a handheld device powered by 2xAAA batteries. This compact console features 5 programmable buttons, 2 LEDs, and an SPI TFT 2.4" display with a resolution of 320x240 pixels.
 
 Originally equipped with a TagConnect connector for programming, the board underwent a redesign, now featuring a basic 2.54mm pitch connector for enhanced programming flexibility.
 
