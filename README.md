@@ -39,6 +39,6 @@ The compact size of 97x70mm allows for easy customization, making it adaptable t
 
 Feel free to explore the possibilities and unleash the potential of the STM32 Pocket Game/Dev Console for your unique projects!
 
-### Ongoing Development
+### Disclaimer:
 
 This project is still a work in progress as the software has not been officially completed, and additional tests are pending to ensure the stability and performance of the device. Stay tuned for updates, or feel free to build one yourself if you enjoy experimenting.
