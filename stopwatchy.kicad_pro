@@ -498,7 +498,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "3V3",
-        "pcb_color": "rgb(0, 255, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -548,18 +548,6 @@
     },
     "netclass_assignments": null,
     "netclass_patterns": [
-      {
-        "netclass": "3V3",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "SPI",
-        "pattern": "SPI*"
-      },
-      {
-        "netclass": "IO",
-        "pattern": "BTN*"
-      },
       {
         "netclass": "Default",
         "pattern": ""
