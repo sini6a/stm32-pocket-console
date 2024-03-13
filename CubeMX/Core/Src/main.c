@@ -107,6 +107,7 @@ int main(void)
     HAL_GPIO_WritePin( MIN_LED_GPIO_Port, MIN_LED_Pin, HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_13) == GPIO_PIN_SET );
     HAL_GPIO_WritePin( MIN_LED_GPIO_Port, MIN_LED_Pin, HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_14) == GPIO_PIN_SET );
 
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -276,6 +277,12 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
+
+  /*Configure GPIO pin : PA3 */
+  GPIO_InitStruct.Pin = GPIO_PIN_3;
+  GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
   /*Configure GPIO pins : PA9 PA10 PA13 PA14 */
