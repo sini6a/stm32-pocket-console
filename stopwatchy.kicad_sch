@@ -3514,16 +3514,16 @@
 		(uuid "0be7c0e6-9fb7-42bf-b284-2e199f543ac2")
 	)
 	(junction
-		(at 20.32 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "296e8155-f458-4b17-84e4-c988a1972088")
-	)
-	(junction
 		(at 205.74 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29f5558f-8c0a-4cc0-b2b5-3d02b751c7f7")
+	)
+	(junction
+		(at 56.515 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32829da5-de31-45a4-b91c-5510df831d30")
 	)
 	(junction
 		(at 247.015 38.1)
@@ -4256,16 +4256,6 @@
 			(type default)
 		)
 		(uuid "2acc5de7-3835-4a8e-9ffb-3fbbe7e6006d")
-	)
-	(wire
-		(pts
-			(xy 20.32 43.815) (xy 20.32 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c283db3-c96f-480c-9d40-d52c1b590aa1")
 	)
 	(wire
 		(pts
@@ -5899,6 +5889,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 81.28) (xy 56.515 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d70137bc-5178-4693-86f2-2fddfb661da4")
+	)
+	(wire
+		(pts
 			(xy 174.625 74.295) (xy 174.625 76.2)
 		)
 		(stroke
@@ -7027,7 +7027,7 @@
 	)
 	(global_label "ADC_IN0"
 		(shape input)
-		(at 20.32 43.815 90)
+		(at 58.42 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7037,7 +7037,7 @@
 		)
 		(uuid "f9161407-d08b-462b-8b28-5552385ffd68")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.32 33.0888 90)
+			(at 69.1462 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7881,7 +7881,7 @@
 		(fields_autoplaced yes)
 		(uuid "19d9d223-6c27-453b-8244-ddf223366209")
 		(property "Reference" "R3"
-			(at 107.95 49.53 0)
+			(at 107.95 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7889,8 +7889,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "560k"
-			(at 107.95 52.07 0)
+		(property "Value" "56k"
+			(at 107.95 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
