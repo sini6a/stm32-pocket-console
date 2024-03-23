@@ -60,10 +60,6 @@
       ],
       "drc_exclusions": [
         "lib_footprint_issues|139499999|30780975|fca19de6-673b-4ba3-ab9b-ea2d82bbdc04|00000000-0000-0000-0000-000000000000",
-        "silk_overlap|159736752|60635266|e1c87431-f4d1-4a6c-a106-d666bf923a31|d65f5cb1-f873-42bd-bb42-4d64dce5e7f8",
-        "silk_overlap|159739858|60623649|e1c87431-f4d1-4a6c-a106-d666bf923a31|f915ac16-616a-4f60-a18a-a701c8e6e4d1",
-        "silk_overlap|161100000|41535267|e1c87431-f4d1-4a6c-a106-d666bf923a31|a7cbc4ad-b625-413d-8928-a91873d7a35f",
-        "silk_overlap|161162021|60635266|e1c87431-f4d1-4a6c-a106-d666bf923a31|273eb86f-f214-493b-93a2-51e0d52b1bb7",
         "solder_mask_bridge|110512500|100850000|acaeb7db-b03e-463c-bafc-6dca7e507eca|e8f6cc0d-6f8c-46e8-b1b0-c49afaa45012",
         "solder_mask_bridge|110512500|111850000|acaeb7db-b03e-463c-bafc-6dca7e507eca|e13e97cc-9afd-4eec-8ab8-f65bf1b65878"
       ],
