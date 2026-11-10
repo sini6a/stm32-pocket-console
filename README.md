@@ -42,3 +42,9 @@ Feel free to explore the possibilities and unleash the potential of the STM32 Po
 ### Disclaimer:
 
 This project is still a work in progress as the software has not been officially completed, and additional tests are pending to ensure the stability and performance of the device. Stay tuned for updates, or feel free to build one yourself if you enjoy experimenting.
+
+## Support
+
+If you find this project useful, you can buy me a coffee:
+
+<a href="https://buymeacoffee.com/sini6a"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
